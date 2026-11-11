@@ -57,6 +57,12 @@ Searches run in the background. Every business is checked, enriched and scored b
 
 `n8n` · `Supabase` · `Telegram Bot` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
+## Live demo
+
+**[Open the live demo](https://gigly.walkflow.tech/)** (private)
+
+Access is protected. To view it, ask me for access and I'll send you a one-time password. Contact me via [walkflow.tech](https://walkflow.tech) or [LinkedIn](https://linkedin.com/in/walkflow).
+
 ## Want something like this?
 
 I build automations like this for businesses: lead capture, follow-ups, and alerts. Get in touch at [walkflow.tech](https://walkflow.tech) or on [LinkedIn](https://linkedin.com/in/walkflow).
